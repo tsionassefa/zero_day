@@ -1,0 +1,7 @@
+[user]
+	email = tsionassefa101@gmail.com
+	name = tsionassefa
+[core]
+	editor = emacs
+[init]
+	defaultBranch = main
